@@ -9,4 +9,8 @@ public class Library {
     {
         return true;
     }
+    public boolean f2()
+    {
+        return true;
+    }
 }
