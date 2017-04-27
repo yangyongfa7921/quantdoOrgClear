@@ -13,4 +13,12 @@ public class Library {
     {
         return true;
     }
+    public boolean f3()
+    {
+        return true;
+    }
+    public boolean f4()
+    {
+        return true;
+    }
 }
